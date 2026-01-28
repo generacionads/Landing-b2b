@@ -1,0 +1,1 @@
+// This file is deprecated. The entry point is now app/layout.tsx and app/page.tsx.

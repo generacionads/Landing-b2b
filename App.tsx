@@ -1,0 +1,1 @@
+// This file is deprecated. The main page logic is now in app/page.tsx.
